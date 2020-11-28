@@ -6,7 +6,7 @@
 
 # Informasi
 **Termux-Cursor** <br>
-Brutal-Sms Adalah Tools Untuk Mepercantik Tamoilan $ Dan Cursor Ketik Di Termux<br>
+Termux-Cursor Adalah Tools Untuk Mepercantik Tamoilan $ Dan Cursor Ketik Di Termux<br>
 
 # Install
 How To Install It :
