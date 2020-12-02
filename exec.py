@@ -1,5 +1,5 @@
 # Mau Source Code ?
-# Subscribe Channel Yiutube Dan Follow Github Gua Dulu Dong Slur !!!
+# Subscribe Channel Youtube Dan Follow Github Gua Dulu Dong Slur !!!
 # Github  :  https://github.com/RSPLOIT-ID
 # Youtube :  Rsploit Official
 # Udah Langsung Inbox Gua Di > 082259177732
